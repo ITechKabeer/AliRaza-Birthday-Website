@@ -1,6 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    
-    // --- 1. Birthday Countdown Timer ---
+
     // Target date: November 13, 2025 (Current time is November 12, 2025, 8:04 PM PKT)
     const birthday = new Date('November 13, 2025 00:00:00').getTime(); 
     
