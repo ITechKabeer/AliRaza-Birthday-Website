@@ -1,5 +1,5 @@
 # 🎂 Birthday Countdown for Ali Raza (JavaScript Project)
-**Live Demo:** [Click Here](#)
+**Live Demo:** [Click Here](https://ali-raza-birthday-website.vercel.app)
 
 A heartwarming and animated **Birthday Countdown Website** made with pure **JavaScript, HTML & CSS**.  
 This project celebrates *Ali Raza’s 25th Birthday* with a live timer, confetti blasts, and interactive candle-blowing & virtual hug effects 🎉💖
@@ -47,7 +47,7 @@ This project helps you practice and understand:
 ---
 
 ## 📸 Preview
-*(Add a screenshot, video, or GIF of your Birthday Countdown once hosted)*  
+![App Preview](demo.png)  
 
 ---
 
@@ -56,7 +56,7 @@ This project helps you practice and understand:
 💼 **Brand:** HussainDesigns  
 🎯 **Project Type:** Creative JavaScript Frontend  
 📅 **Date:** November 2025  
-📧 **Email:** your-email@example.com  
+📧 **Email:** codealpha0786@gmail.com   
 🔗 **GitHub:** [ITechKabeer](https://github.com/ITechKabeer)
 
 Made by Kabeer Hussain ❤️ for my brother **Ali Raza** — because every second counts when you’re waiting to celebrate someone special 🎉
