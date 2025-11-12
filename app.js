@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
                  document.getElementById('countdown-timer').innerHTML = "<h2>HAPPY BIRTHDAY ALI RAZA! 🥳</h2>";
             }
             if (document.querySelector('.hero-section h1')) {
-                document.querySelector('.hero-section h1').innerHTML = "✨ **HAPPY 25th BIRTHDAY, ALI RAZA!** ✨";
+                document.querySelector('.hero-section h1').innerHTML = "✨ <b>HAPPY 25th BIRTHDAY, ALI RAZA!</b> ✨";
             }
             createConfetti(100); // Confetti effect chalao!
         }
